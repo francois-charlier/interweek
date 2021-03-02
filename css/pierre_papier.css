@@ -1,0 +1,31 @@
+body {
+    margin-top: 100px;
+    background-color: lightgreen;
+}
+input {
+    margin-left: 18px;
+    border: solid black 5px;
+}
+.titre{
+    margin-left: 25px;
+    font-size: 50px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.compteur {
+    margin-left: 25px;
+    font-size: 40px;
+    font-weight: bold;
+    color: red;
+}
+.joueur {
+    padding-left: 100px;
+}
+#scores {
+    font-size: 15px;
+    color: chocolate;
+    font-weight: bold;
+}
+#backMenu {
+    text-decoration: underline;
+}
